@@ -14,7 +14,7 @@ Using it, student's time will save, as there mostly time wasted in searching in 
 
 #Screenshot of Azure Resource used :
 
-![FRT Azure Resource](https://user-images.githubusercontent.com/85386911/173188776-da0b76dd-a330-4f12-8fe0-592487d688cf.png)
+![resource group](https://user-images.githubusercontent.com/85386911/173193456-5ad88172-6a61-4951-aacb-96e0a8cc99b6.png)
 
 # Screenshot of Azure Static Web App used :
 
