@@ -18,7 +18,7 @@ Using it, student's time will save, as there mostly time wasted in searching in 
 
 # Screenshot of Azure Static Web App used :
 
-![azure static web app ](https://user-images.githubusercontent.com/85386911/173188881-1b2b851d-60b0-4896-8d41-a37146b53358.png)
+![azure static web app](https://user-images.githubusercontent.com/85386911/173188881-1b2b851d-60b0-4896-8d41-a37146b53358.png)
 
 # Screenshot of website (The Geeky Guide) :
 
