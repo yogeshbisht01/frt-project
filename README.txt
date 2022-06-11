@@ -8,4 +8,5 @@ Using it, student's time will save, as there mostly time wasted in searching in 
 
 # Languages Used: HTML, CSS, Javascript, SCSS  
 
+![FRT Azure Resource](https://user-images.githubusercontent.com/85386911/173188776-da0b76dd-a330-4f12-8fe0-592487d688cf.png)
 
