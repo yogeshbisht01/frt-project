@@ -4,7 +4,7 @@ It provides guiding about placements, internships, interview, aptitude, Computer
 
 Using it, student's time will save, as there mostly time wasted in searching in find the best available content in the internet, this website helps them by guiding about their desired content.
 
-# Technolgy Used: Azure Static Web App, VS Code, Sublime
+# Technolgy Used: Azure Static Web App, VS Code, Sublime, Github
 
 # Languages Used: HTML, CSS, Javascript, SCSS
 
