@@ -8,7 +8,7 @@ It provides guiding about placements, internships, interview, aptitude, Computer
 
 Using it, student's time will save, as there mostly time wasted in searching in find the best available content in the internet, this website helps them by guiding about their desired content destination.
 
-# Technolgy Used: 
+# Technology Used: 
  Azure Static Web App, VS Code, Sublime, Github
 
 # Languages Used: 
@@ -45,10 +45,13 @@ https://www.dropbox.com/s/4y9o3rjp4nt4u3f/Demo_FRT_geekyguide%20project.mp4?dl=0
 
 # Future work: 
 Have to make about page.
+
 Can add dark mode for user accessibility.
 Can add feature that update articles, interview experiences automatically on daily basis.
+
 Have to connect user queries/suggestion form to database.
-Can add more helpful resources to geeks</>
+
+Can add more helpful resources/tools for geeks</>
 
 
 
