@@ -44,7 +44,8 @@ HTML, CSS, Javascript, SCSS
 https://www.dropbox.com/s/4y9o3rjp4nt4u3f/Demo_FRT_geekyguide%20project.mp4?dl=0
 
 # Future work: 
-Have to make about page.
+
+Can add about tab page.
 
 Can add dark mode for user accessibility.
 Can add feature that update articles, interview experiences automatically on daily basis.
