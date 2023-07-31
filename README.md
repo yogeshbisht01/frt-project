@@ -4,7 +4,7 @@
 
 It is a guiding website that can be helpful for computer science students, preparing for their placements as well as their subjects.
 
-It provides guiding about placements, internships, interview, aptitude, Computer science subjects, roadmaps etc.
+It provides guiding support about placements, internships, interview, aptitude, Computer science subjects, roadmaps etc.
 
 Using it, student's time will save, as there mostly time wasted in searching in find the best available content in the internet, this website helps them by guiding about their desired content destination.
 
